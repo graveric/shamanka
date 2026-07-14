@@ -69,5 +69,5 @@
 ![shamanka-0.3](./images/sh-rev01.png)
 ![shamanka-very-first](./images/sh-rev00.png)
 
-
+---
 [The BOARD approved 🙃](https://telegram.me/theboard420)
