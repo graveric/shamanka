@@ -64,6 +64,7 @@
 
 (от новых к старым)
 
-![shamanka-0.9](./images/sh-rev02.png)
-![shamanka-0.5](./images/sh-rev01.png)
+![shamanka-0.9](./images/sh-rev03.png)
+![shamanka-0.5](./images/sh-rev02.png)
+![shamanka-0.3](./images/sh-rev01.png)
 ![shamanka-very-first](./images/sh-rev00.png)
