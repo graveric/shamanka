@@ -59,3 +59,11 @@
 [Статика](https://github.com/mohoaz1348-rgb/statica)
 
 *список дополню в ближайшее время*
+
+## Предыдущие ревизии
+
+(от новых к старым)
+
+![shamanka-0.9](./images/sh-rev02.png)
+![shamanka-0.5](./images/sh-rev01.png)
+![shamanka-very-first](./images/sh-rev00.png)
