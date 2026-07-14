@@ -2,7 +2,7 @@
 
 Альтернативная русская раскладка для раздельных клавиатур с вынесенной в тамб-кластер альфой, высокими чередованиями, низкими sfb и пониженной нагрузкой на мизинцы.
 
-**Shamanka** is alternative Russian layout for split keyboards featuring thumb-cluster alpha key, high alternation, low SFBs and reduced pinky load
+**Shamanka** is an alternative Russian layout for split keyboards featuring thumb-cluster alpha key, high alternation, low SFBs and reduced pinky load
 
 ```
 ъфуаюэ  шмнкзх
